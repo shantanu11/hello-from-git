@@ -1,0 +1,2 @@
+We are learning git diff command.
+This is 2nd file in series.

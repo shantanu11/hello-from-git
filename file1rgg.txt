@@ -1,1 +1,4 @@
-This a test file. I am experimenting with GIT.
+This a test file. I am experimenting with Github & Git with vscode.
+In this section, I will make some changes in file and 
+then test, how it works
+
